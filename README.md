@@ -7,7 +7,8 @@
 - 🤔 I’m looking for learn new skills.
 - 💬 Ask me about technical services on computers, laptops, networks and more.
 - 😄 Pronouns: He. Him.
-- ⚡ Fun fact: Traveller 🌍 Gym 🏋️ Music 🎵  
+- ⚡ Fun fact: Traveller 🌍 Gym 🏋️ Music 🎵
+- 🚩 Location: Buenos Aires
 - [Instagram](https://instagram.com/jose.lescano)
 </br>
 
@@ -26,9 +27,14 @@
   My confesion ▶️ *Creo que mi mejor lenguaje es el Español.* :laughing:
 </div><br/>
 
+<div>
+<h3>IDE</h4>
+<img alt="VSCode" height="30" src="https://img.shields.io/badge/Editor-VS%20Code-0076C5.svg?style=flat&logo=visual-studio&logoColor=white">
+</div></br>
+
 <h3>O.S.</h4>
 <div style="display: inline_block">
-    <img alt="Windows" height="40" src="https://img.shields.io/badge/OS-Windows-0AABE5?style=flat&logo=windows&logoColor=white">
+    <img alt="Windows" height="30" src="https://img.shields.io/badge/OS-Windows-0AABE5?style=flat&logo=windows&logoColor=white">
   <img alt="Windows" height="20" src="https://img.shields.io/badge/OS-Linux-609927?style=flat&logo=linux&logoColor=white">
 </div><br/>
  
@@ -40,4 +46,10 @@
   <img alt="Power Point" height="20" src="https://img.shields.io/badge/Office-Power%20Point-CD4425?style=flat&logo=microsoft-powerpoint&logoColor=white">
   <img alt="Visio" height="20" src="https://img.shields.io/badge/Office-Visio-345097?style=flat&logo=microsoft-visio&logoColor=white">
   <img alt="Access" height="15" src="https://img.shields.io/badge/Office-Access-B31319?style=flat&logo=microsoft-access&logoColor=white">
-</div><br/>
+</div>
+<br/>
+
+<div>
+  <div align="right">
+    <img alt="bye" height="30" src="https://img.shields.io/badge/Bye!-Saludos!-green">
+</div>
