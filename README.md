@@ -15,4 +15,4 @@ I want to know more about this! I'm `curious`. 😅
 
 
 ### My confesion:
-> Creo que puedo hablar mejor en Español :+1:
+> *Creo que puedo hablar mejor en Español.* :+1:
