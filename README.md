@@ -22,10 +22,11 @@
   <img alt="Python" height="30" src="https://img.shields.io/badge/Code-Python-357AE7?style=flat&logo=php&logoColor=white">
 </div><br/>
 
-<div>
-  <div align="center">
-  My confesion ▶️ *Creo que mi mejor lenguaje es el Español.* :laughing:
-</div><br/>
+<blockquote>
+<h3>Confesion</h3>
+<p><style="italic">Creo que mi mejor lenguaje es el Español. :laughing:</p>
+</blockquote>
+</br>
 
 <div>
 <h3>IDE</h4>
@@ -51,5 +52,5 @@
 
 <div>
   <div align="right">
-    <img alt="bye" height="30" src="https://img.shields.io/badge/Bye!-Saludos!-green">
+    <img alt="bye" height="25" src="https://img.shields.io/badge/Regards!-Saludos!-brightgreen">
 </div>
