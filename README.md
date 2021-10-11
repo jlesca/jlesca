@@ -9,7 +9,7 @@
 - 😄 Pronouns: He. Him.
 - ⚡ Fun fact: Traveller 🌍 Gym 🏋️ Music 🎵
 - 🚩 Location: Buenos Aires
-- [Instagram](https://instagram.com/jose.lescano)
+- 🙋‍♂️ Perfectionist - Life Growth Hacker
 </br>
 
 <div>
