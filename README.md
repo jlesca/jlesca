@@ -23,8 +23,8 @@
 </div><br/>
 
 <blockquote>
-<h3>Confesion</h3>
-<p>Creo que mi mejor lenguaje es el Español. :laughing:</p>
+  <h3>Confesion</h3>
+    <p><i>Creo que mi mejor lenguaje es el Español. :laughing:</i></p>
 </blockquote>
 </br>
 
