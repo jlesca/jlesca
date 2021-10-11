@@ -24,7 +24,7 @@
 
 <blockquote>
 <h3>Confesion</h3>
-<p><style="italic">Creo que mi mejor lenguaje es el Español. :laughing:</p>
+<p>Creo que mi mejor lenguaje es el Español. :laughing:</p>
 </blockquote>
 </br>
 
