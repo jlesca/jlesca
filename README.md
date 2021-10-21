@@ -10,6 +10,7 @@
 - ⚡ Fun fact: Traveller 🌍 Gym 🏋️ Music 🎵
 - 🚩 Location: Buenos Aires
 - 🙋‍♂️ Perfectionist - Life Growth Hacker
+- :nerd_face: Curious - Autodidact
 </br>
 
 <div>
