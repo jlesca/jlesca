@@ -6,11 +6,11 @@
 - 👯 I’m looking to get new knowledge on programming.
 - 🤔 I’m looking for learn new skills.
 - 💬 Ask me about technical services on computers, laptops, networks and more.
-- 😄 Pronouns: He. Him.
 - ⚡ Fun fact: Traveller 🌍 Gym 🏋️ Music 🎵
 - 🚩 Location: Buenos Aires
 - 🙋‍♂️ Perfectionist - Life Growth Hacker
-- :nerd_face: Curious - Autodidact
+- 🤓 Curious - Autodidact
+- ☕ Coffee drinker & reader
 </br>
 
 <div>
