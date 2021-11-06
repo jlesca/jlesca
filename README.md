@@ -1,4 +1,4 @@
-# Hi! I'm José - *or Koche*👋
+# Hi! I'm Koche 👋
 
 
 - 🔭 I’m currently working on tech.
