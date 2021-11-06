@@ -6,8 +6,8 @@
 - 👯 I’m looking to get new knowledge on programming.
 - 🤔 I’m looking for learn new skills.
 - 💬 Ask me about technical services on computers, laptops, networks and more.
-- ⚡ Fun fact: Traveller 🌍 Gym 🏋️ Music 🎵
-- 🚩 Location: Buenos Aires
+- ⚡ Fun fact: Traveller - Gym - Music
+- 🚩 Location: Buenos Aires - ARG
 - 🙋‍♂️ Perfectionist - Life Growth Hacker
 - 🤓 Curious - Autodidact
 - ☕ Coffee drinker & reader
