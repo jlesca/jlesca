@@ -25,10 +25,7 @@
 </div><br/>
 
 <div>
-<blockquote>
-  <h3>Confesion</h3>
-  <p><i>Creo que mi mejor lenguaje es el Español. :laughing:</i></p>
-</blockquote>
+<blockquote><p><i>I think my better language is Spanish. :laughing:</i></p></blockquote>
 </div></br>
 
 <div>
