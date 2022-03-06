@@ -2,10 +2,9 @@
 
 
 - 🔭 I’m currently working on tech.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Python**.
 - 👯 I’m looking to get new knowledge on programming.
 - 🤔 I’m looking for learn new skills.
-- 💬 Ask me about technical services on computers, laptops, networks and more.
 - ⚡ Fun fact: Traveller - Gym - Music
 - 🚩 Location: Buenos Aires - ARG
 - 🙋‍♂️ Perfectionist - Life Growth Hacker
@@ -14,24 +13,28 @@
 </br>
 
 <div>
-  <h3>Why I'm in Github?</h4>
-  I want to know more about this! I'm `curious`. 😅
+  <h3>Why I'm in Github?</h3>
+  I want to know more about this! I'm 'curious'. 😅
 </div><br/>
 
 <div>
-  <h3>Languages</h4>
-  <img alt="Python" height="30" src="https://img.shields.io/badge/Code-Python-357AE7?style=flat&logo=php&logoColor=white">
+  <h3>Languages</h3>
+  <img alt="HTML" height="30" src="https://img.shields.io/badge/HTML-blue?style=flat&logo=html5&logoColor=white">
+  <img alt="CSS" height="30" src="https://img.shields.io/badge/CSS-orange?style=flat&logo=css3&logoColor=white">
+  <img alt="JS" height="30" src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white">
+  <img alt="Python" height="30" src="https://img.shields.io/badge/Python-357AE7?style=flat&logo=python&logoColor=white"><br>
+  
 </div><br/>
 
 <blockquote>
   <h3>Confesion</h3>
-    <p><i>Creo que mi mejor lenguaje es el Español. :laughing:</i></p>
+  <p><i>Creo que mi mejor lenguaje es el Español. :laughing:</i></p>
 </blockquote>
 </br>
 
 <div>
-<h3>IDE</h4>
-<img alt="VSCode" height="30" src="https://img.shields.io/badge/Editor-VS%20Code-0076C5.svg?style=flat&logo=visual-studio&logoColor=white">
+  <h3>IDE</h3>
+  <img alt="VSCode" height="30" src="https://img.shields.io/badge/Editor-VS%20Code-0076C5.svg?style=flat&logo=visual-studio&logoColor=white">
 </div></br>
 
 <h3>O.S.</h4>
